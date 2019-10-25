@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/DeepAakaram/Sample%20Project/_apis/build/status/Sample%20Project-CI?branchName=master)](https://dev.azure.com/DeepAakaram/Sample%20Project/_build/latest?definitionId=2&branchName=master)
+
 # DotNetty Project
 
 [![Join the chat at https://gitter.im/Azure/DotNetty](https://img.shields.io/gitter/room/Azure/DotNetty.js.svg?style=flat-square)](https://gitter.im/Azure/DotNetty?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
